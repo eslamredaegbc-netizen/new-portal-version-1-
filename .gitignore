@@ -1,9 +1,0 @@
-__pycache__/
-.streamlit/
-*.pyc
-*.pyo
-*.pyd
-data/*.db
-!data/README.md
-exports/*
-!exports/README.md
