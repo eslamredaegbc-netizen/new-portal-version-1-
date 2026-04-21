@@ -1,2 +1,0 @@
-"""Media monitoring platform package."""
-
